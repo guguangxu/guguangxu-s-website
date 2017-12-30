@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2017-12-30T10:35:33.112Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://guguangxu.github.io/"/>
+  <updated>2017-12-30T14:26:02.242Z</updated>
+  <id>http://guguangxu.github.io/</id>
   
   <author>
     <name>guguangxu</name>
@@ -17,42 +17,19 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>It&#39;s me!</title>
-    <link href="http://yoursite.com/2017/12/30/It&#39;s%20me!/"/>
-    <id>http://yoursite.com/2017/12/30/It&#39;s me!/</id>
-    <published>2017-12-30T06:46:33.000Z</published>
-    <updated>2017-12-30T10:35:33.112Z</updated>
-    
-    <content type="html"><![CDATA[<p>This Photo is This picture was taken at 20:09:53</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;This Photo is This picture was taken at 20:09:53&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/08/25/hello-world/"/>
-    <id>http://yoursite.com/2017/08/25/hello-world/</id>
+    <link href="http://guguangxu.github.io/2017/08/25/hello-world/"/>
+    <id>http://guguangxu.github.io/2017/08/25/hello-world/</id>
     <published>2017-08-25T12:09:53.000Z</published>
-    <updated>2017-12-30T10:34:54.294Z</updated>
+    <updated>2017-12-30T14:26:02.242Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to here! 这是一篇测试文章，用以纪念blog成功上线</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/images/01.jpg" alt=""><br>Welcome here! 这是一篇测试文章，以示blog成功上线<br><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","video":{"url":" /images/testvideo.mp4","pic":" /images/02.png"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script><br>上面是个假视频，and the photo above was taken at 20:09:53. ^ ^</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to here! 这是一篇测试文章，用以纪念blog成功上线&lt;/p&gt;
-
+        &lt;p&gt;&lt;img src=&quot;/images/01.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;Welcome here! 这是一篇测试文章，以示blog成功上线&lt;br&gt;&lt;div id=&quot;dplayer0&quot; class=&quot;dplayer hexo-tag-dplayer-mark&quot; style=
       
     
     </summary>

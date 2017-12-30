@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-12-30T07:18:33.869Z</updated>
+  <updated>2017-12-30T09:46:23.254Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>我的第一篇</title>
-    <link href="http://yoursite.com/2017/12/30/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
-    <id>http://yoursite.com/2017/12/30/我的第一篇/</id>
+    <title>It&#39;s me!</title>
+    <link href="http://yoursite.com/2017/12/30/It&#39;s%20me!/"/>
+    <id>http://yoursite.com/2017/12/30/It&#39;s me!/</id>
     <published>2017-12-30T06:46:33.000Z</published>
-    <updated>2017-12-30T07:18:33.869Z</updated>
+    <updated>2017-12-30T09:46:23.254Z</updated>
     
     <content type="html"><![CDATA[<p>这是一篇测试文章，用以纪念blog成功上线</p>]]></content>
     
@@ -36,16 +36,14 @@
     </summary>
     
     
-      <category term="测试 哈哈" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95-%E5%93%88%E5%93%88/"/>
-    
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/12/30/hello-world/"/>
-    <id>http://yoursite.com/2017/12/30/hello-world/</id>
-    <published>2017-12-30T01:45:28.151Z</published>
-    <updated>2017-12-30T06:36:44.280Z</updated>
+    <link href="http://yoursite.com/2017/08/25/hello-world/"/>
+    <id>http://yoursite.com/2017/08/25/hello-world/</id>
+    <published>2017-08-25T12:09:53.000Z</published>
+    <updated>2017-12-30T09:46:07.522Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to here!</p>]]></content>
     

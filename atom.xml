@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-12-30T09:46:23.254Z</updated>
+  <updated>2017-12-30T10:35:33.112Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://yoursite.com/2017/12/30/It&#39;s%20me!/"/>
     <id>http://yoursite.com/2017/12/30/It&#39;s me!/</id>
     <published>2017-12-30T06:46:33.000Z</published>
-    <updated>2017-12-30T09:46:23.254Z</updated>
+    <updated>2017-12-30T10:35:33.112Z</updated>
     
-    <content type="html"><![CDATA[<p>这是一篇测试文章，用以纪念blog成功上线</p>]]></content>
+    <content type="html"><![CDATA[<p>This Photo is This picture was taken at 20:09:53</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;这是一篇测试文章，用以纪念blog成功上线&lt;/p&gt;
+        &lt;p&gt;This Photo is This picture was taken at 20:09:53&lt;/p&gt;
 
       
     
@@ -43,15 +43,15 @@
     <link href="http://yoursite.com/2017/08/25/hello-world/"/>
     <id>http://yoursite.com/2017/08/25/hello-world/</id>
     <published>2017-08-25T12:09:53.000Z</published>
-    <updated>2017-12-30T09:46:07.522Z</updated>
+    <updated>2017-12-30T10:34:54.294Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to here!</p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to here! 这是一篇测试文章，用以纪念blog成功上线</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to here!&lt;/p&gt;
+        &lt;p&gt;Welcome to here! 这是一篇测试文章，用以纪念blog成功上线&lt;/p&gt;
 
       
     
